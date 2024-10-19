@@ -1,0 +1,35 @@
+[
+    {
+        "id": "1",
+        "title": "Rascador para gatos",
+        "description": "Rascador mediano, redondo, de carton para gatos",
+        "code": "P001",
+        "price": 25000,
+        "status": true,
+        "stock": 50,
+        "category": "juguetes",
+        "thumbnails": []
+    },
+    {
+        "id": "2",
+        "title": "Raton interactivos",
+        "description": "Raton de plastico para gatos, con cascabel y plumas",
+        "code": "P002",
+        "price": 1200,
+        "status": true,
+        "stock": 40,
+        "category": "juguetes",
+        "thumbnails": []
+    },
+    {
+        "id": "3",
+        "title": "Alimento premium - pollo y verduras",
+        "description": "1kg de aliemento para gatos, a base de pollo, verduras y aditivos regularizados.",
+        "code": "P003",
+        "price": 2500,
+        "status": true,
+        "stock": 33,
+        "category": "alimentos",
+        "thumbnails": []
+    }
+]
